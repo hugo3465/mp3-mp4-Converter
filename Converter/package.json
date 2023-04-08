@@ -1,0 +1,20 @@
+{
+  "name": "teste_ytdl",
+  "version": "1.0.0",
+  "description": "teste ytdl",
+  "main": "teste.js",
+  "dependencies": {
+    "progress": "^2.0.3",
+    "yargs": "^13.2.4",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Guimarães",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/test.js"
+  }
+}

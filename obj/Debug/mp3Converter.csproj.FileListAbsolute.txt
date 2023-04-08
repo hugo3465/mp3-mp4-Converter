@@ -1,0 +1,10 @@
+C:\Users\Utilizador\Desktop\mp3Converter\bin\Debug\mp3Converter.exe.config
+C:\Users\Utilizador\Desktop\mp3Converter\bin\Debug\mp3Converter.exe
+C:\Users\Utilizador\Desktop\mp3Converter\bin\Debug\mp3Converter.pdb
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.Form1.resources
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.exe
+C:\Users\Utilizador\Desktop\mp3Converter\obj\Debug\mp3Converter.pdb
